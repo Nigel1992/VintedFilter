@@ -11,7 +11,7 @@ This guide explains how to run JavaScript code directly in the Chrome Developer 
 4. Click on the **Console** tab at the top of the Developer Tools panel.
 5. Type `allow pasting` and hit Enter.
 
-## Step 2: Run JavaScript Code
+## Step 2: Run JavaScript Code [Make sure page is fully loaded]
 1. In the **Console**, type or paste the following code:
 
 ```javascript
