@@ -41,9 +41,10 @@ It highlights or annotates items with the country, city, and flag next to the pr
 
 ---
 
-## Example
+## Example by filtering France
 
-![Example Screenshot](screenshot.png)  
+<img width="494" height="436" alt="image" src="https://github.com/user-attachments/assets/e316242f-7c6b-401a-ad75-fe86935bd0b1" />
+  
 
 - Items from the desired country remain fully visible.  
 - Items from other countries are faded.  
