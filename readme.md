@@ -20,19 +20,17 @@ It highlights or annotates items with the country, city, and flag next to the pr
 
 ---
 
-## TO-DO
+## 📝 To-Do
 
-1. Remember selected country
-   
+### 1. Remember selected country
 Save the chosen country so it is automatically selected on the next visit.
 
-3. Country selection dropdown
-   
+### 2. Country selection dropdown
 Use a dropdown menu to easily choose a country.
 
-5. Save country and city data when navigating
-   
-When you visit other pages on Vinted and then come back, the previously collected country and city data will still be displayed and used again.
+### 3. Save country and city data when navigating
+When you visit other pages on Vinted and then come back, the previously collected country and city data will still be displayed and reused.
+
 
 ---
 
