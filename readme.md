@@ -1,6 +1,9 @@
 > 🚧 **COMING SOON**  
 > This project will be released as a **Chrome Extension**.  
 > For now, please refer to **GUIDE.md** for usage instructions.
+>
+> ⚠️ **Use at your own risk.**  
+> This extension modifies the Vinted website locally and may conflict with Vinted’s Terms of Service.
 
 # 🇪🇺 Vinted Country Filter – Chrome Extension
 
@@ -106,6 +109,45 @@ src="https://github.com/user-attachments/assets/e316242f-7c6b-401a-ad75-fe86935b
 
 ---
 
+## ⚖️ Legal Disclaimer
+
+This project is an **independent, unofficial browser extension**.
+
+- It is **not affiliated with, endorsed by, or sponsored by Vinted**.
+- All trademarks, logos, and brand names are the property of their respective owners.
+- This project is provided **for educational and personal use only**.
+
+---
+
+## 🔐 Data & Privacy
+
+- This extension **does not collect, store, or transmit personal user data**.
+- All processing occurs **locally in the user’s browser**.
+- No analytics, tracking, or third-party services are used.
+- Network requests are made **only to Vinted endpoints** already accessed by the website itself.
+
+---
+
+## 🚫 Terms of Service Notice
+
+- Use of this extension is **entirely at your own risk**.
+- Automated access, scraping, or modification of website behavior **may violate Vinted’s Terms of Service**.
+- The author assumes **no responsibility** for account restrictions, captchas, bans, or other consequences resulting from use of this software.
+
+---
+
+## 🛠️ No Warranty
+
+This software is provided **“as is”**, without warranty of any kind, express or implied, including but not limited to:
+
+- Merchantability  
+- Fitness for a particular purpose  
+- Non-infringement  
+
+In no event shall the author be liable for any claim, damages, or other liability arising from the use of this software.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -119,5 +161,5 @@ Contributions are welcome!
 
 **MIT License**
 
-You’re free to **use, modify, and distribute** this project.
+You are free to **use, modify, and distribute** this project.
 
